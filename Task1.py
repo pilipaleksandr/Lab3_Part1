@@ -35,7 +35,7 @@ if __name__ == '__main__':
         obj1.show_rational_form()
         obj1.show_float_form()
 
-        obj2 = Rational(2,5)
+        obj2 = Rational(2, 5)
         obj2.show_rational_form()
         obj2.show_float_form()
     except Exception as e:
